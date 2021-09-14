@@ -1,0 +1,102 @@
+,Cuisine,Number of Restaurants,Pune,Bangalore,Mumbai,Noida,Delhi,Kolkata,Gurgaon,Hyderabad,Category
+0,North Indian,4798,596,890,491,1117,997,198,403,106,Indian
+1,Chinese,3459,426,708,455,768,651,124,246,81,International
+2,Fast Food,3067,508,462,531,505,609,177,218,57,Fast Food
+3,Beverages,1436,221,375,216,189,231,77,86,41,Beverages
+4,Desserts,1245,197,297,268,181,134,61,59,48,Desserts
+5,South Indian,1196,153,307,130,141,137,102,47,179,Indian
+6,Biryani,935,112,346,99,165,80,47,46,40,Indian
+7,Mughlai,889,96,94,167,255,165,21,73,18,Indian
+8,Street Food,770,196,167,112,58,116,54,31,36,Fast Food
+9,Bakery,698,80,92,107,193,115,29,57,25,Others
+10,Italian,596,138,78,114,75,123,37,27,4,International
+11,Continental,561,113,118,78,71,115,31,27,8,International
+12,Pizza,497,68,80,68,119,113,16,32,1,International
+13,Rolls,493,30,76,62,169,96,27,29,4,Others
+14,Cafe,476,131,92,53,52,78,41,18,11,Others
+15,Ice Cream,386,75,119,68,32,51,4,21,16,Desserts
+16,Burger,330,45,68,39,63,69,7,30,9,International
+17,Momos,314,23,54,32,80,84,17,24,0,International
+18,Mithai,302,25,49,49,45,68,5,35,26,Desserts
+19,Healthy Food,288,39,55,43,56,49,7,32,7,Healthy
+20,Sandwich,261,36,56,47,41,31,29,17,4,Others
+21,Salad,232,82,23,32,40,26,14,11,4,Healthy
+22,Asian,213,52,34,38,35,38,1,15,0,International
+23,Seafood,197,39,64,66,10,13,1,3,1,Non-Veg
+24,Thai,174,27,29,26,39,37,2,14,0,International
+25,Kebab,167,30,38,13,39,30,6,9,2,Others
+26,Juices,154,18,59,28,10,11,13,6,9,Beverages
+27,American,141,18,31,36,21,20,10,3,2,International
+28,Mexican,119,24,17,28,15,18,9,8,0,International
+29,Bengali,113,6,40,4,17,2,41,3,0,Indian
+30,Maharashtrian,108,81,6,14,3,2,0,0,2,Indian
+31,Lebanese,98,11,12,40,10,14,0,4,7,International
+32,Andhra,92,0,79,0,3,5,0,2,3,Indian
+33,Wraps,79,6,12,10,23,16,0,7,5,Others
+34,European,68,29,5,21,2,9,1,1,0,International
+35,Hyderabadi,68,7,19,7,13,7,5,4,6,Indian
+36,Tea,67,13,18,10,13,6,4,3,0,Beverages
+37,Mishti,67,0,0,0,0,0,67,0,0,Desserts
+38,Kerala,65,5,52,3,3,1,0,1,0,Indian
+39,Japanese,65,8,5,15,10,23,0,4,0,International
+40,Arabian,62,3,41,8,4,2,0,0,4,International
+41,Finger Food,59,24,15,12,4,3,0,1,0,Fast Food
+42,BBQ,50,4,16,13,6,5,1,5,0,International
+43,Sushi,41,5,4,12,9,10,0,1,0,International
+44,Tibetan,40,2,10,2,4,15,4,3,0,International
+45,Coffee,40,10,8,4,7,3,4,2,2,Beverages
+46,Rajasthani,28,0,8,5,3,2,8,2,0,Indian
+47,North Eastern,27,4,4,1,3,8,5,2,0,Indian
+48,Mediterranean,27,8,5,6,3,3,0,1,1,International
+49,Paan,25,3,1,7,6,5,1,2,0,Indian
+50,Mangalorean,21,4,16,0,0,1,0,0,0,Indian
+51,Odia,20,0,19,0,0,0,0,1,0,Indian
+52,Afghan,20,1,3,6,4,5,0,1,0,International
+53,Modern Indian,20,9,3,5,0,2,0,0,1,Indian
+54,Bar Food,19,7,3,7,0,2,0,0,0,Others
+55,Vietnamese,17,4,5,3,3,2,0,0,0,International
+56,Steak,16,6,7,2,0,1,0,0,0,International
+57,Korean,16,4,3,4,0,5,0,0,0,International
+58,Malwani,16,9,0,7,0,0,0,0,0,Indian
+59,Malaysian,15,6,1,2,0,4,0,2,0,International
+60,Awadhi,13,1,5,3,1,0,1,2,0,Indian
+61,Lucknowi,12,4,1,1,5,1,0,0,0,Indian
+62,Chettinad,12,0,9,3,0,0,0,0,0,Indian
+63,Gujarati,12,1,6,3,0,1,0,1,0,Indian
+64,Raw Meats,12,0,1,0,3,5,0,3,0,Non-Veg
+65,Bihari,11,1,2,0,3,3,1,1,0,Indian
+66,Parsi,11,1,0,7,1,2,0,0,0,Indian
+67,Burmese,10,1,2,2,2,0,3,0,0,International
+68,Iranian,9,2,0,5,1,1,0,0,0,International
+69,German,8,5,1,2,0,0,0,0,0,International
+70,Goan,8,1,0,2,1,3,0,1,0,Indian
+71,Poké,8,0,0,0,5,1,0,2,0,International
+72,Kashmiri,8,2,0,2,2,2,0,0,0,Indian
+73,Bubble Tea,6,2,2,0,2,0,0,0,0,Beverages
+74,Konkan,6,4,0,2,0,0,0,0,0,Indian
+75,Naga,6,0,2,0,0,4,0,0,0,Indian
+76,Brazilian,5,3,0,2,0,0,0,0,0,International
+77,French,5,3,0,2,0,0,0,0,0,International
+78,Turkish,5,2,0,1,0,2,0,0,0,International
+79,Roast Chicken,4,0,1,0,3,0,0,0,0,Non-Veg
+80,Frozen Yogurt,4,0,0,2,0,1,0,1,0,Desserts
+81,Bangladeshi,4,0,0,0,0,0,4,0,0,International
+82,Tex-Mex,4,0,2,1,0,0,0,1,0,International
+83,Middle Eastern,4,1,1,1,0,1,0,0,0,International
+84,Indonesian,3,1,0,1,0,0,0,1,0,International
+85,Tamil,3,0,3,0,0,0,0,0,0,Indian
+86,Spanish,3,0,0,0,0,0,3,0,0,International
+87,Portuguese,3,0,0,0,2,1,0,0,0,International
+88,Charcoal Chicken,3,0,2,1,0,0,0,0,0,Non-Veg
+89,Nepalese,3,0,2,0,0,1,0,0,0,International
+90,Hot dogs,3,0,1,0,0,2,0,0,0,International
+91,South American,3,2,0,1,0,0,0,0,0,International
+92,Assamese,2,0,1,1,0,0,0,0,0,Indian
+93,Cantonese,2,1,0,1,0,0,0,0,0,International
+94,Belgian,2,0,1,0,0,1,0,0,0,International
+95,Indian,2,1,0,1,0,0,0,0,0,International
+96,Israeli,2,0,0,0,0,2,0,0,0,International
+97,Bohri,1,0,1,0,0,0,0,0,0,Indian
+98,Sri Lankan,1,0,1,0,0,0,0,0,0,International
+99,African,1,0,1,0,0,0,0,0,0,International
+100,Greek,1,0,0,0,1,0,0,0,0,International
