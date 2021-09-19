@@ -1,3 +1,3 @@
 # vizfood
 
-<embed src="out/food_restaurant.pdf">
+<embed src="https://github.com/sreedevigattu/vizfood/blob/main/out/food_restaurant.pdf">
