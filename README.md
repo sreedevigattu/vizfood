@@ -1,3 +1,2 @@
 # vizfood
-
-https://docs.google.com/viewer?url=https://github.com/sreedevigattu/vizfood/blob/main/out/food_restaurant.pdf
+[Power BI Report.pdf](https://github.com/sreedevigattu/vizfood/blob/main/out/food_restaurant.pdf)
